@@ -9,6 +9,6 @@ Additionally, because wind turbines cannot run optimally under a static load, I 
 
 The .ino file included in this repo is the result of my efforts to write a program that would meet these requirements.
 
-Unfortunately, due to oversights in our design, the project was unsuccessful. Although the data we collected was accurate, the mechanical modifications made to the lower of the two turbines being unable to operate under any significant load.
+Unfortunately, due to oversights in our design, the project was unsuccessful. Although the data we collected was accurate, the mechanical modifications made to the lower of the two turbines resulted in it being unable to operate under any significant load.
 
 <img width="768" height="1024" alt="image0" src="https://github.com/user-attachments/assets/b18ccd6d-fdf4-4d39-9124-7ddf1be64cd7" />
