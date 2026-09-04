@@ -1,4 +1,4 @@
-# PNW Senior Design 2024
+# PNW Senior Design 2023
 
 A team of four engineering students, including me, was assigned the following project as part of our senior-year coursework.
 
