@@ -7,7 +7,7 @@ The purpose of this project was to explore the viability of mounting multiple ve
 
 Additionaly, because wind turbines cannot run optimally under a static load, I attempted to use PWM to dynamicaly load the wind turbine based off the current power output. 
 
-The .ino file included in this repo is the result of my efforts to write a program that would meet these requirements.
+*The .ino file included in this repo is the result of my efforts to write a program that would meet these requirements.*
 
 Unfortunately, the project as a whole was unsuccessful, due to oversights in our design. Although the data we collected was accurate, the mechanical modifications made to the VAWT's made them unable to operate under any significant load.
 
